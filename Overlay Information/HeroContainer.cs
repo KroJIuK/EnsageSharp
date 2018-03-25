@@ -163,13 +163,24 @@ namespace OverlayInformation
         {
             AbilityId.item_blink,
             AbilityId.item_gem,
+            AbilityId.item_dust,
+            AbilityId.item_ward_sentry,
+            AbilityId.item_ward_dispenser,
             AbilityId.item_silver_edge,
             AbilityId.item_sheepstick,
             AbilityId.item_orchid,
             AbilityId.item_bloodthorn,
             AbilityId.item_black_king_bar,
             AbilityId.item_glimmer_cape,
-            AbilityId.item_invis_sword
+            AbilityId.item_invis_sword,
+            AbilityId.item_aegis,
+            AbilityId.item_sphere,
+            AbilityId.item_nullifier,
+            AbilityId.item_aeon_disk,
+            AbilityId.item_rapier,
+            AbilityId.item_satanic,
+            AbilityId.item_shadow_amulet,
+            AbilityId.item_cheese
         };
         private static readonly List<AbilityId> InvisBreakerList = new List<AbilityId>
         {
