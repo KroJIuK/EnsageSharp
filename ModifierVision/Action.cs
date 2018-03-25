@@ -77,7 +77,7 @@ namespace ModifierVision
                     {
                         Drawing.DrawRect(itemPos, size,
                             Textures.GetTexture(
-                                $"materials/ensage_ui/modifier_textures/round/{modifier.TextureName}.vmat"));
+                                $"materials/ensage_ui/modifier_textures/Round/{modifier.TextureName}.vmat"));
                     }
                     else
                     {
