@@ -180,7 +180,7 @@ namespace OverlayInformation
             AbilityId.item_rapier,
             AbilityId.item_satanic,
             AbilityId.item_shadow_amulet,
-            AbilityId.item_cheese,
+            AbilityId.item_cheese
         };
         private static readonly List<AbilityId> InvisBreakerList = new List<AbilityId>
         {
